@@ -1,0 +1,9 @@
+x = 10                 #int
+y = 3.14               #float
+z = "Python"           #string
+a = [1, 2, 3]          #list
+b = (1, 2, 3)          #tuple
+c = {"key": "value"}   #dict
+d = {1, 2, 3}          #set
+e = True               #bool
+f = None               #NoneType
